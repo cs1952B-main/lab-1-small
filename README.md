@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to Lab 1! This repository is based on a fork of the [Mastodon source code](https://github.com/mastodon/mastodon) from January 2023, with an added `reflections.md` file. We know this repo is quite large, but we've provided a lot of resources and guidance in the handout to make nagivating it easier. Please read the instructions in the lab handout to know what changes you're expected to make to this repo!
+Welcome to Lab 1! This repository is based on a fork of the [Mastodon source code](https://github.com/mastodon/mastodon) from January 2023, with an added `reflections.md` file. We know this repo is quite large, but we've provided a lot of resources and guidance in the handout to make navigating it easier. Please read the instructions in the lab handout to know what changes you're expected to make to this repo!
 
 <h1><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./lib/assets/wordmark.dark.png?raw=true">
