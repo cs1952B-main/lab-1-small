@@ -1,4 +1,4 @@
-##NOTE FOR FUTURE ITERATIONS, USE THIS REPO AS THE BASE NOT THE LAB 1 REPO
+## NOTE FOR FUTURE ITERATIONS, USE THIS REPO AS THE BASE NOT THE LAB 1 REPO
 ## Introduction
 Welcome to Lab 1! This repository is based on a fork of the [Mastodon source code](https://github.com/mastodon/mastodon) from January 2023, with an added `reflections.md` file. We know this repo is quite large, but we've provided a lot of resources and guidance in the handout to make navigating it easier. Please read the instructions in the lab handout to know what changes you're expected to make to this repo!
 
